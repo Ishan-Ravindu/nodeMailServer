@@ -22,8 +22,8 @@ app.post("/api/form", (req, res) => {
     service: "Gmail",
     port: 465,
     auth: {
-      user: "mobiledevelopment2021@gmail.com",
-      pass: "mit@2021",
+      user: "hosremail@gmail.com",
+      pass: "passwordHere",
     },
   });
 
